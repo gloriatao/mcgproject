@@ -1,2 +1,2 @@
 # mcgproject
-![image](https://github.com/gloriatao/mcgproject/blob/main/plots/Fig_workflow.png)
+code alrealy uploaded, we will add a short introduction soon
